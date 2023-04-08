@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactawstutorial9b9b7bb6": {}
+      },
+      "api": {
+        "reactawstutorial": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
