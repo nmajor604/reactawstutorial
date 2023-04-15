@@ -106,7 +106,7 @@ const App = ({ signOut }) => {
         {notes.map((note) => (
           <Flex
             key={note.id || note.name}
-            direction="row"
+            direction="column"
             justifyContent="center"
             alignItems="center"
           >
